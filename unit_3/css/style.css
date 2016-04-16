@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,900,200,300,600,600italic,700,700italic,400italic,300italic,200italic);
+@import url(https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic);
+
 body {
 	text-align: center;
 	background: url("http://www.aspoonwithlove.com/wp-content/uploads/2015/01/chatni_redchilli.gif");
@@ -7,23 +10,27 @@ body {
 }
 
 h1{
+	font-family:'Titillium Web', sans-serif;
 	color: white;
-	font-size: 50px;
-	font-weight: bold;
+	font-size: 105px;
+	font-weight: 800;
 }
 
 p {
+	font-family:'Titillium Web', sans-serif;
 	color:white;
-	font-size: 25px;
+	font-size: 30px;
 }
 
 #slogan {
-	font-size: 35px;
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 50px;
 	font-style: italic;
 }
 
 #contact {
-	font-size: 15px;
+	font-family:'Titillium Web', sans-serif;
+	font-size: 20px;
 }
 
 hr {
