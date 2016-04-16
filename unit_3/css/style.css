@@ -1,13 +1,29 @@
 body {
 	text-align: center;
-	background: url("images/chutney.gif");
+	background: url("http://www.aspoonwithlove.com/wp-content/uploads/2015/01/chatni_redchilli.gif");
 	background-size: cover;
 	color: #fff;
 	font-family: Helvetica;
 }
 
-h1, p {
+h1{
 	color: white;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+p {
+	color:white;
+	font-size: 25px;
+}
+
+#slogan {
+	font-size: 35px;
+	font-style: italic;
+}
+
+#contact {
+	font-size: 15px;
 }
 
 hr {
