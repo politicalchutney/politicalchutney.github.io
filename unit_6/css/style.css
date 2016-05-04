@@ -1,0 +1,129 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,900,200,300,600,600italic,700,700italic,400italic,300italic,200italic);
+@import url(https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic);
+
+body {
+	text-align: center;
+	background: url("http://www.aspoonwithlove.com/wp-content/uploads/2015/01/chatni_redchilli.gif");
+	background-size: cover;
+	color: #fff;
+	font-family: Helvetica;
+}
+
+h1{
+	font-family:'Titillium Web', sans-serif;
+	color: white;
+	font-size: 105px;
+	font-weight: 800;
+}
+
+#topline {
+	width: 300px;
+}
+p {
+	font-family:'Titillium Web', sans-serif;
+	color:white;
+	font-size: 30px;
+}
+
+#slogan {
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 50px;
+	font-style: italic;
+}
+
+#contact {
+	font-family:'Titillium Web', sans-serif;
+	font-size: 20px;
+}
+
+hr {
+	width: 700px;
+}
+
+.maincontent {
+	background: #FFE2B8;
+	margin: 2em;
+	padding: 1em;
+}
+
+article {
+	text-align:left;
+
+}
+
+h2 {
+	font-family:'Titillium Web', sans-serif;
+	font-size: 40px;
+}
+
+h3 {
+	font-family:'Sorts Mill Goudy', serif;
+	font-style: italic;
+	font-size: 25px;
+	font-weight: 100;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20 px;
+	clear: both;
+}
+
+.columns {
+	float: left;
+	background: #FFE2B8;
+	padding: 1%;
+	width: 32%;
+	display: block;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+	clear:both;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
