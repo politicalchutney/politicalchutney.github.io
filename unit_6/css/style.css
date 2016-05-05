@@ -1,6 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,900,200,300,600,600italic,700,700italic,400italic,300italic,200italic);
 @import url(https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic);
 
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
 body {
 	text-align: center;
 	background: url("http://www.aspoonwithlove.com/wp-content/uploads/2015/01/chatni_redchilli.gif");
@@ -75,11 +81,6 @@ nav {
 	padding: 20 px;
 }
 
-article {
-	background-color: #E89C6C;
-	border: 1px black solid;
-	padding: 20 px;
-}
 
 footer {
 	background-color: #FF957E;
@@ -127,3 +128,14 @@ footer {
     clear: both;
     height: 0;
 }
+
+.article {
+	width: 33.33%;
+	display: block;
+	float: left;
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
