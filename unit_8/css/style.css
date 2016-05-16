@@ -64,6 +64,7 @@ p {
 	display: block;
 	float: left;
 	background-color: #E89C6C;
+	padding: 5px;
 }
 
 .clearfix:after {
