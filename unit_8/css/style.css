@@ -10,6 +10,10 @@ body {
 	font-size: 100px;
 }
 
+article {
+	text-align: center;
+}
+
 h1{
 	font-family:'Titillium Web', sans-serif;
 	color: white;
@@ -48,12 +52,27 @@ p {
 	font-size: .3em;
 }
 
+.headline1 {
+	background: #FFE2B8;
+	margin: 2em;
+	padding: 1em;
+}
+
+.article {
+	width: 33.33%;
+	display: block;
+	float: left;
+	background-color: #E89C6C 0.5;
+	border: .01em black solid;
+	padding: .2em;
+
+}
+
 #slogan {
 	font-family: 'Sorts Mill Goudy', serif;
 	font-size: .5em;
 	font-style: italic;
 }
-
 
 
 #contact {
