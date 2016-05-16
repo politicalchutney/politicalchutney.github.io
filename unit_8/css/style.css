@@ -103,7 +103,8 @@ a:link {
 		font-size: 75px;
 	}
 	.article {
-		float:none;
+		float: none;
+		width: 100%;
 	}
 
 }
