@@ -17,6 +17,32 @@ h1{
 	font-weight: 800;
 }
 
+h2 {
+	font-family:'Titillium Web', sans-serif;
+	font-size: .4em;
+}
+
+h3 {
+	font-family:'Sorts Mill Goudy', serif;
+	font-style: italic;
+	font-size: .25em;
+	font-weight: 100;
+}
+
+h4 {
+	font-family:'Sorts Mill Goudy', serif;
+	font-style: italic;
+	font-size: .25em;
+	font-weight: 100;
+}
+
+h5 {
+	font-family:'Sorts Mill Goudy', serif;
+	font-style: italic;
+	font-size: .25em;
+	font-weight: 100;
+}
+
 p {
 	font-family:'Titillium Web', sans-serif;
 	color:white;
@@ -28,6 +54,8 @@ p {
 	font-size: .5em;
 	font-style: italic;
 }
+
+
 
 #contact {
 	font-family:'Titillium Web', sans-serif;
