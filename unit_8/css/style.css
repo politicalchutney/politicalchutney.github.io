@@ -60,11 +60,11 @@ p {
 }
 
 .article {
-	width: 33.33%;
+	width: 31.33%;
 	display: block;
 	float: left;
 	background-color: #E89C6C;
-	padding: 1px;
+	padding: 1%;
 }
 
 .clearfix:after {
