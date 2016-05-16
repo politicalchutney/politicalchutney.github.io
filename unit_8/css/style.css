@@ -60,3 +60,7 @@ p {
 	font-family:'Titillium Web', sans-serif;
 	font-size: 0.2em;
 }
+
+a:link {
+	text-decoration:none;
+}
