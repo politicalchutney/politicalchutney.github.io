@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,900,200,300,600,600italic,700,700italic,400italic,300italic,200italic);
+@import url(https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic);
+
+body {
+	text-align: center;
+	background: url("http://www.aspoonwithlove.com/wp-content/uploads/2015/01/chatni_redchilli.gif");
+	background-size: cover;
+	color: #fff;
+	font-family: Helvetica;
+}
