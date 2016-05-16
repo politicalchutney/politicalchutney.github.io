@@ -59,12 +59,12 @@ p {
 }
 
 .article {
-	width: 33.33%;
+	width: 33%;
 	display: block;
 	float: left;
 	background-color: #E89C6C 0.5;
 	border: .01em black solid;
-	padding: .2em;
+	padding: .3%;
 
 }
 
