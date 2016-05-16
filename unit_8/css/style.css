@@ -55,8 +55,8 @@ p {
 
 .headline1 {
 	background: #FFE2B8;
-	margin: 2em;
 	padding: 1em;
+	margin: 33%;
 }
 
 .article {
@@ -97,6 +97,9 @@ a:link {
 	body {
 		font-size: 80px;
 	}
+	.headline1 {
+		margin: 20%;
+	}
 }
 
 @media only screen and (max-width: 750px) {
@@ -107,11 +110,16 @@ a:link {
 		float: none;
 		width: 98%;
 	}
-
+	.headline1 {
+		margin: 10%;
+	}
 }
 
 @media only screen and (max-width: 450px) {
 	body {
 		font-size: 60px;
+	}
+	.headline1 {
+		margin: 5%;
 	}
 }
