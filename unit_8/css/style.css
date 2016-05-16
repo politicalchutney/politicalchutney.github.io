@@ -56,7 +56,7 @@ p {
 .headline1 {
 	background: #FFE2B8;
 	padding: 1em;
-	margin: 0 25% 0 25%;
+	margin: 5% 25% 5% 25%;
 }
 
 .article {
@@ -98,7 +98,7 @@ a:link {
 		font-size: 80px;
 	}
 	.headline1 {
-		margin: 20%;
+		margin: 7% 20% 7% 20%;
 	}
 }
 
