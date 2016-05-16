@@ -62,5 +62,6 @@ p {
 }
 
 a:link {
-	text-decoration:none;
+	text-decoration: none;
+	color: #fff;
 }
