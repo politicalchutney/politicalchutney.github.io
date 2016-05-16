@@ -59,11 +59,11 @@ p {
 }
 
 .article {
-	width: 33%;
+	width: 33.33%;
 	display: block;
 	float: left;
 	background-color: #E89C6C;
-	padding: .3%;
+	padding: 20px;
 
 }
 
