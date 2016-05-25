@@ -5,6 +5,7 @@ body {
 	text-align: center;
 	background: url("http://www.aspoonwithlove.com/wp-content/uploads/2015/01/chatni_redchilli.gif");
 	background-size: cover;
+	background-attachment: fixed;
 	color: #fff;
 	font-family: Helvetica;
 	font-size: 100px;
